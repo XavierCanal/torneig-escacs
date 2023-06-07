@@ -1,0 +1,20 @@
+{
+  "name": "torneig-escacs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "sequelize": "^6.32.0",
+    "sqlite3": "^5.1.6",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^4.6.3",
+    "uuid": "^9.0.0"
+  }
+}
