@@ -1,6 +1,6 @@
 const express = require("express");
 const v1PlayerRoutes = require("./v1/routes/playerRoutes");
-const v1GameRoutes = require("./v1/routes/GameRoutes");
+const v1GameRoutes = require("./v1/routes/gameRoutes");
 
 const { swaggerDocs: V1SwaggerDocs } = require("./v1/swagger");
 
