@@ -6,7 +6,7 @@ const options = {
         openapi: "3.0.0",
         info: { title: "API Torneig d'escacs", version: "1.0.0" },
     },
-    apis: ["src/v1/routes/playerRoutes.js", "src/database/Player.js", "src/v1/routes/GameRoutes.js", "src/database/Game.js"],
+    apis: ["src/v1/routes/playerRoutes.js", "src/database/Player.js", "src/v1/routes/gameRoutes.js", "src/database/Game.js"],
 
 };
 
